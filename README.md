@@ -13,3 +13,4 @@ Asrock h310m-itx/ac Clover EFI Catalina 10.15.3
 * wifi & bluetooth
 * AirDrop & Handoff & SideCar
 * rx470 & uhd630
+* usb
